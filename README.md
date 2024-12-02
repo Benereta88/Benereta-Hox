@@ -6,7 +6,7 @@
 
 🌱 Jag håller på att lära mig python
 
-👨‍💻 Alla mina projekt finns på github.com/Benereta88
+👨‍💻 Alla mina projekt finns på https://github.com/Benereta88
 
 💬 Fråga mig om SQL
 
