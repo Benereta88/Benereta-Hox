@@ -1,6 +1,6 @@
 👋 Hej 👋 Jag heter Benereta
 
-🔭 Jag pluggar just nu Datahanteraren hos TUC
+🔭 Jag pluggar just nu Datahamanager hos TUC
 
 👀 Jag letar efter praktikplats för perioden dec 2025-jun 2026
 
@@ -16,7 +16,7 @@
 
 😄 Jag älskar humör 
 
-⚡ Fun fact Jag älskar tredning och 2022 säljade 3 bitcoin: UPPS
+⚡ Fun fact 
 
 
 Ta kontakt med mig:
