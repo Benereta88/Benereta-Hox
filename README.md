@@ -12,8 +12,9 @@
 
 📫 Hur du när mig beneretahoxha8@gmail.com
 
-📄 Check out my certificate below! 
-🔗https://lnkd.in/ds94gDvQ 
+📄 Check out my certificate below
+Business Intelligence (BI) Essentials fom IBM! 
+🔗https://coursera.org/share/36e7ac0b42608bf8837a1cd79c086a56
 
 😄 Jag älskar humör 
 
