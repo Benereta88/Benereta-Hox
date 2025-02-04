@@ -15,6 +15,7 @@
 📄 Check out my certificate below
 Business Intelligence (BI) Essentials fom IBM! 
 🔗https://coursera.org/share/36e7ac0b42608bf8837a1cd79c086a56
+https://www.coursera.org/account/accomplishments/certificate/8R6SUFB7Q8Z5
 
 😄 Jag älskar humör 
 
