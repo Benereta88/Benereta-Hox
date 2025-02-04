@@ -1,8 +1,8 @@
 👋 Hej 👋 Jag heter Benereta
 
-🔭 Jag pluggar just nu Datahamanager hos TUC
+🔭 Jag pluggar just nu Datamanager hos TUC
 
-👀 Jag letar efter praktikplats för perioden dec 2025-jun 2026
+👀 Jag letar efter praktikplats för perioden dec 2025-maj 2026
 
 🌱 Jag håller på att lära mig R
 
