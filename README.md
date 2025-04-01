@@ -6,6 +6,7 @@
 
 🌱 Jag håller på att lära mig R
 
+👨‍💻 Min porfolio https://www.datascienceportfol.io/beneretahoxha8
 👨‍💻 Alla mina projekt finns på https://github.com/Benereta88
 
 💬 Fråga mig om SQL och Python
