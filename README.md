@@ -2,7 +2,7 @@
 
 🔭 Jag pluggar just nu Datamanager hos TUC
 
-👀 Jag letar efter praktikplats för perioden dec 2025-maj 2026
+👀 Jag letar efter praktikplats för perioden  8 dec 2025 - 24 april 2026
 
 🌱 Jag håller på att lära mig R
 
@@ -22,10 +22,7 @@ https://graphacademy.neo4j.com/c/42bc12fe-2d6b-4b3e-9803-4e7ca0eb461f/
 
 😄 Jag älskar humör 
 
-
-
 Ta kontakt med mig: 0737363632
-
 
 Språk och verktyg:
 SQL, Python, Javascript, Neo4j
