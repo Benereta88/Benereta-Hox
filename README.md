@@ -13,7 +13,7 @@
 📫 Hur du när mig beneretahoxha8@gmail.com
 
 📄 Check out my certificate below                   
-📄 Business Intelligence (BI) Essentials fom IBM! 
+📄 Business Intelligence (BI) Essentials fom IBM!                
 🔗https://www.coursera.org/account/accomplishments/certificate/8R6SUFB7Q8Z5
 
 📄 Neo4j Graph Data Science Certification               
