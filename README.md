@@ -27,7 +27,9 @@ Ta kontakt med mig: 0737363632
 
 
 Språk och verktyg:
-SQL, Python
+SQL, Python, Javascript, Neo4j
+
+VScode, Pyspark & Pycharm, Postgres & Datagrip, Github, SQLite studio, Neo4jdescop......
 
 **Benereta88/Benereta88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
